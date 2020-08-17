@@ -29,6 +29,8 @@
 .pub-cache/
 .pub/
 /build/
+/assets/demomap-255913-5ab82f90d020.json
+/assets/tutorial-lfrnlu-34e133cbeed6.json
 
 # Web related
 lib/generated_plugin_registrant.dart
